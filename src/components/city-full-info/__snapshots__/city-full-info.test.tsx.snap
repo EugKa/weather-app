@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityFullInfo component should render CityFullInfo component with propsData 1`] = `
+<Styled(ForwardRef(Paper))>
+  <ul
+    className="todayList"
+  >
+    <li>
+      Sep 27, 15:09pm
+    </li>
+    <h2>
+      London
+    </h2>
+    <ul
+      className="imgWrapper"
+    >
+      <ForwardRef(CardMedia)
+        component="img"
+        height={70}
+        image="http://openweathermap.org/img/wn/03d@2x.png"
+      />
+      <li>
+        17
+        ℃
+      </li>
+    </ul>
+    <ul
+      className="info"
+    >
+      <li>
+        <span
+          className="infoText"
+        >
+          Feels like 
+          16
+          ℃.
+        </span>
+        <span
+          className="infoText"
+        >
+          Scattered clouds
+          .
+        </span>
+      </li>
+    </ul>
+    <ul
+      className="info"
+    >
+      <li>
+        <span
+          className="infoText"
+        >
+          Wind speed: 
+          0.45
+        </span>
+        <span
+          className="infoText"
+        >
+          Preshure: 
+          1013
+          hPa
+        </span>
+      </li>
+      <li>
+        <span
+          className="infoText"
+        >
+          Humidity: 
+          59
+          %
+        </span>
+        <span
+          className="infoText"
+        >
+          UV: 
+          1.65
+        </span>
+      </li>
+      <li>
+        <span
+          className="infoText"
+        >
+          Dew point: 
+          9.31
+          ℃
+        </span>
+        <span
+          className="infoText"
+        >
+          Visibility: 
+          10km
+        </span>
+      </li>
+    </ul>
+  </ul>
+</Styled(ForwardRef(Paper))>
+`;

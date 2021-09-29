@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityCard component CityCard handlers should click handleDelete 1`] = `
+<div
+  className="card"
+>
+  <div>
+    London
+    , 
+    GB
+  </div>
+  <div
+    className="imgWrapper"
+  >
+    <ForwardRef(CardMedia)
+      component="img"
+      height={100}
+      image="http://openweathermap.org/img/wn/03d@2x.png"
+    />
+    <div>
+      16
+      ℃
+    </div>
+  </div>
+  <div />
+  <ForwardRef(Button)
+    className="btn-update"
+    onClick={[Function]}
+  >
+    Update
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-info"
+    onClick={[Function]}
+  >
+    More info
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-delete"
+    onClick={[Function]}
+  >
+    Delete
+  </ForwardRef(Button)>
+</div>
+`;
+
+exports[`CityCard component CityCard handlers should click handleSelect 1`] = `
+<div
+  className="card"
+>
+  <div>
+    London
+    , 
+    GB
+  </div>
+  <div
+    className="imgWrapper"
+  >
+    <ForwardRef(CardMedia)
+      component="img"
+      height={100}
+      image="http://openweathermap.org/img/wn/03d@2x.png"
+    />
+    <div>
+      16
+      ℃
+    </div>
+  </div>
+  <div />
+  <ForwardRef(Button)
+    className="btn-update"
+    onClick={[Function]}
+  >
+    Update
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-info"
+    onClick={[Function]}
+  >
+    More info
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-delete"
+    onClick={[Function]}
+  >
+    Delete
+  </ForwardRef(Button)>
+</div>
+`;
+
+exports[`CityCard component CityCard handlers should click handleUpdate 1`] = `
+<div
+  className="card"
+>
+  <div>
+    London
+    , 
+    GB
+  </div>
+  <div
+    className="imgWrapper"
+  >
+    <ForwardRef(CardMedia)
+      component="img"
+      height={100}
+      image="http://openweathermap.org/img/wn/03d@2x.png"
+    />
+    <div>
+      16
+      ℃
+    </div>
+  </div>
+  <div />
+  <ForwardRef(Button)
+    className="btn-update"
+    onClick={[Function]}
+  >
+    Update
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-info"
+    onClick={[Function]}
+  >
+    More info
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-delete"
+    onClick={[Function]}
+  >
+    Delete
+  </ForwardRef(Button)>
+</div>
+`;
+
+exports[`CityCard component should render CityCard component with propsData 1`] = `
+<div
+  className="card"
+>
+  <div>
+    London
+    , 
+    GB
+  </div>
+  <div
+    className="imgWrapper"
+  >
+    <ForwardRef(CardMedia)
+      component="img"
+      height={100}
+      image="http://openweathermap.org/img/wn/03d@2x.png"
+    />
+    <div>
+      16
+      ℃
+    </div>
+  </div>
+  <div />
+  <ForwardRef(Button)
+    className="btn-update"
+    onClick={[Function]}
+  >
+    Update
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-info"
+    onClick={[Function]}
+  >
+    More info
+  </ForwardRef(Button)>
+  <ForwardRef(Button)
+    className="btn-delete"
+    onClick={[Function]}
+  >
+    Delete
+  </ForwardRef(Button)>
+</div>
+`;
+
+exports[`CityCard component should render CityCard component without propsData 1`] = `
+<div
+  className="card"
+>
+  <Progress />
+</div>
+`;

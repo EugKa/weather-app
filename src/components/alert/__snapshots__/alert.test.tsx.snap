@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityCard component should render CityCard component with propsData 1`] = `
+<ForwardRef(Stack)
+  spacing={2}
+  sx={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <ForwardRef(Alert)
+    severity="error"
+  >
+    Error
+  </ForwardRef(Alert)>
+</ForwardRef(Stack)>
+`;

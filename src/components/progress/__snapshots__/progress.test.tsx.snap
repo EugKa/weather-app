@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Progress component should render Progress component 1`] = `
+<ForwardRef(Box)
+  className="main-pr"
+  sx={
+    Object {
+      "display": "flex",
+    }
+  }
+>
+  <ForwardRef(CircularProgress) />
+</ForwardRef(Box)>
+`;

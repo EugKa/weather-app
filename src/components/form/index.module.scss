@@ -1,0 +1,30 @@
+.AddCity {
+    display: flex;
+    justify-content: center;
+}
+.form {
+    width: 100%;
+}
+
+.formWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    margin: 10px 0;
+    width: 700px;
+    padding: 10px 20px;
+}
+
+.paper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.btn {
+    height: 55px;
+}

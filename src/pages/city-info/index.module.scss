@@ -1,0 +1,19 @@
+.todayList {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.imgWrapper {
+    width: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.info {
+    text-align: start;
+}
+
+.infoText {
+    padding: 0 5px;
+}
+

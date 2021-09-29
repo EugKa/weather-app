@@ -1,0 +1,15 @@
+.mainPage {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.noData {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.noDataIcon {
+    width: 100px !important;
+    height: 100px !important;
+}
